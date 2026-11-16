@@ -1,4 +1,4 @@
-# EcoHabit V3 🌱
+# EcoHabit
 
 Plataforma gamificada de sustentabilidade urbana, desenvolvida em Flutter para Android como projeto acadêmico de Engenharia de Software da Universidade de Mogi das Cruzes (UMC), relacionada aos ODS 7 e 11.
 
